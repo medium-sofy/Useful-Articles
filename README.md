@@ -5,3 +5,5 @@ Useful articles that I read online, mainly related to web development
 
 - [Everything you need to know about HTTP](https://cs.fyi/guide/http-in-depth)
 
+- [What's in a URL?](https://cs.fyi/guide/whats-in-a-url)
+
