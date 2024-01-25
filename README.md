@@ -10,3 +10,5 @@ Useful articles that I read online, mainly related to web development
 - [IaaS vs PaaS vs SaaS](https://cs.fyi/guide/iaas-vs-paas-vs-saas)
 
 - [Forget About Setting Goals. Focus on This Instead.](https://jamesclear.com/goals-systems)
+
+- [Five Rules to write a better commit message](https://medhat.dev/blog/five-rules-for-better-commit-messages/)
