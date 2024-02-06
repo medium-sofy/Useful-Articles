@@ -16,3 +16,5 @@ Useful articles that I read online, mainly related to web development
 - [How to push to a Different git Branch?](https://cs.fyi/guide/push-to-different-branch)
 
 - [Git Cheatsheet](https://cs.fyi/guide/git-cheatsheet)
+
+- [Scalability for Dummies](https://cs.fyi/guide/scalability-for-dummies)
