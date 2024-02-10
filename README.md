@@ -17,4 +17,6 @@ Useful articles that I read online, mainly related to web development
 
 - [Git Cheatsheet](https://cs.fyi/guide/git-cheatsheet)
 
+- [Scalability for Dummies](https://cs.fyi/guide/scalability-for-dummies)
+
 -[How to get Username and Group in Linux](https://cs.fyi/guide/how-to-get-username-and-group-linux)
