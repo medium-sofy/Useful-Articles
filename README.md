@@ -16,3 +16,5 @@ Useful articles that I read online, mainly related to web development
 - [How to push to a Different git Branch?](https://cs.fyi/guide/push-to-different-branch)
 
 - [Git Cheatsheet](https://cs.fyi/guide/git-cheatsheet)
+
+-[How to get Username and Group in Linux](https://cs.fyi/guide/how-to-get-username-and-group-linux)
